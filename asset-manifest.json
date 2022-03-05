@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/lets-deploy/static/js/main.f2fdceba.js",
+    "static/js/787.cddefb8e.chunk.js": "/lets-deploy/static/js/787.cddefb8e.chunk.js",
+    "index.html": "/lets-deploy/index.html",
+    "main.f2fdceba.js.map": "/lets-deploy/static/js/main.f2fdceba.js.map",
+    "787.cddefb8e.chunk.js.map": "/lets-deploy/static/js/787.cddefb8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2fdceba.js"
+  ]
+}
